@@ -115,7 +115,6 @@
           "foreground": "#ffffff",
           "leading_diamond": "\ue0b6",
           "style": "diamond",
-          // "template": " \uf1bb {{ .Env.DAYS }} days till Christmas ",
           "template": "\uF408 errken08",
           "trailing_diamond":"\ue0b4",
           "type": "text"
